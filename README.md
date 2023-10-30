@@ -2,6 +2,7 @@
 
 ## 概要
 円安に抗うべくしてJUCEフレームワークで作成したReverbのプラグインです。
+<img src="https://helkun.dev/works/fig/HelReverb.png" style="width:50%">
 
 ## 引用
 ### 1. [JUCE公式ドキュメント](https://juce.com/learn/documentation/)
